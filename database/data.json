@@ -1,6 +1,6 @@
 [
   {
-    "Photo": "photo/aamina.png",
+    "Photo": "photo/aamina.jpg",
     "Name": "Aamina Khatib",
     "Year": 2020,
     "Program": "Jr Software Developer",
@@ -9,7 +9,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/anele.png",
+    "Photo": "photo/anele.jpg",
     "Name": "Anele Noirita",
     "Year": 2020,
     "Program": "IW",
@@ -18,7 +18,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/tumi.png",
+    "Photo": "photo/tumi.jpg",
     "Name": "Boitumelo Mosala",
     "Year": 2020,
     "Program": "IW",
@@ -27,7 +27,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/cecil.png",
+    "Photo": "photo/cecil.jpg",
     "Name": "Cecil Chris-Esema",
     "Year": 2020,
     "Program": "Sec",
@@ -36,34 +36,34 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/cedrick.png",
+    "Photo": "photo/cedrick.jpg",
     "Name": "Cedrick Platt",
     "Year": 2020,
     "Program": "Sec",
     "Github link": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
+    "[skills]": "[C++, C#, Python]",
+    "[interestedlob]": "[Security]"
   },
   {
-    "Photo": "photo/devin.png",
+    "Photo": "photo/devin.jpg",
     "Name": "Devin Azzie",
     "Year": 2020,
-    "Program": "Sec",
+    "Program": "NTT Secure Coding Academy",
     "Github link": "https://DevOps901.github.io",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
+    "[skills]": "Python, Javascript, HTML, CSS",
+    "[interestedlob]": "[Apps and Mobility]"
   },
   {
-    "Photo": "photo/dolly.png",
+    "Photo": "photo/dolly.jpg",
     "Name": "Dolly Ngwenya",
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://dolly123276.github.io",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
+    "[skills]": "[Communication,Business Analysis,Data,C#]",
+    "[interestedlob]": "[Data Analytics,Business Analysis]"
   },
   {
-    "Photo": "photo/ehi.png",
+    "Photo": "photo/ehi.jpg",
     "Name": "Ehimemhem Okharedia",
     "Year": 2020,
     "Program": "BH2.0",
@@ -72,7 +72,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/jesse.png",
+    "Photo": "photo/jesse.jpg",
     "Name": "Jesse Thomas",
     "Year": 2020,
     "Program": "Sec",
@@ -81,17 +81,17 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/gift.png",
+    "Photo": "photo/gift.jpg",
     "Name": "Lehlohonolo Mokoena (Gift)",
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://giftbhm.github.io/giftbhm-FirstRep/",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
+    "[skills]": "[C#,Java,HTML,CSS,WPF,Windows Forms, Android Development, Oracle SQL]",
+    "[interestedlob]": "[Apps, Data Services BI ]"
   },
   {
-    "Photo": "photo/marlene.png",
-    "Name": "MarlÃ©ne Eddie",
+    "Photo": "photo/marlene.jpg",
+    "Name": "Marléne Eddie",
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://marleneeddie.github.io",
@@ -99,7 +99,7 @@
     "[interestedlob]": "[Not sure yet]"
   },
   {
-    "Photo": "photo/ameen.png",
+    "Photo": "photo/ameen.jpg",
     "Name": "Mohammed Ameen Mayet",
     "Year": 2020,
     "Program": "IW",
@@ -108,7 +108,7 @@
     "[interestedlob]": "[Data Analytics/ BI Analyst]"
   },
   {
-    "Photo": "photo/ mohen.png",
+    "Photo": "photo/ mohen.jpg",
     "Name": "Mohen Koseelan",
     "Year": 2020,
     "Program": "IW",
@@ -117,7 +117,7 @@
     "[interestedlob]": "[Data Science]"
   },
   {
-    "Photo": "photo/molefi.png",
+    "Photo": "photo/molefi.jpg",
     "Name": "Molefi Ngakane",
     "Year": 2020,
     "Program": "IW",
@@ -126,16 +126,16 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/phindulo.png",
+    "Photo": "photo/phindulo.jpg",
     "Name": "Phindulo Nedzingahe",
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://dajuiceinf.github.io",
     "[skills]": "backendCoding",
-    "[interestedlob]": "BusinessAnalysis"
+    "[interestedlob]": "[BusinessAnalysis]"
   },
   {
-    "Photo": "photo/scelo.png",
+    "Photo": "photo/scelo.jpg",
     "Name": "Scelo Nkabinde",
     "Year": 2020,
     "Program": "IW",
@@ -144,21 +144,12 @@
     "[interestedlob]": "Data Science, Business Analysis"
   },
   {
-    "Photo": "photo/zintle.png",
+    "Photo": "photo/zintle.jpg",
     "Name": "Zintle Lutseke",
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://zintlelutseke.github.io/Profile/",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
-  },
-  {
-    "Photo":"photo/cedrick.png",
-    "Name": "Cedrick Platt",
-    "Year": 2020,
-    "Program": "NTT",
-    "Github link": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
-    "[skills]": "C++, C#, Python",
-    "[interestedlob]": "[Security]"
+    "[skills]": "[C#,HTML]",
+    "[interestedlob]": "[Business Analysis, UX Design]"
   }
 ]
