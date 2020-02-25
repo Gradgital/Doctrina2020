@@ -41,8 +41,8 @@
     "Year": 2020,
     "Program": "Sec",
     "Github link": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
+    "[skills]": "[C++, C#, Python]",
+    "[interestedlob]": "[Security]"
   },
   {
     "Photo": "photo/devin.jpg",
@@ -86,12 +86,12 @@
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://giftbhm.github.io/giftbhm-FirstRep/",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
+    "[skills]": "[C#,Java,HTML,CSS,WPF,Windows Forms, Andriod Development, Oracle SQL]",
+    "[interestedlob]": "[Apps, Data Services BI ]"
   },
   {
     "Photo": "photo/marlene.jpg",
-    "Name": "MarlÃ©ne Eddie",
+    "Name": "Marléne Eddie",
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://marleneeddie.github.io",
@@ -151,14 +151,5 @@
     "Github link": "https://zintlelutseke.github.io/Profile/",
     "[skills]": "[skills]",
     "[interestedlob]": "[interested lob]"
-  },
-  {
-    "Photo":"photo/cedrick.png",
-    "Name": "Cedrick Platt",
-    "Year": 2020,
-    "Program": "NTT",
-    "Github link": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
-    "[skills]": "C++, C#, Python",
-    "[interestedlob]": "[Security]"
   }
 ]
