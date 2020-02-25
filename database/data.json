@@ -86,7 +86,7 @@
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://giftbhm.github.io/giftbhm-FirstRep/",
-    "[skills]": "[C#,Java,HTML,CSS,WPF,Windows Forms, Andriod Development, Oracle SQL]",
+    "[skills]": "[C#,Java,HTML,CSS,WPF,Windows Forms, Android Development, Oracle SQL]",
     "[interestedlob]": "[Apps, Data Services BI ]"
   },
   {
@@ -132,7 +132,7 @@
     "Program": "BH2.0",
     "Github link": "https://dajuiceinf.github.io",
     "[skills]": "backendCoding",
-    "[interestedlob]": "BusinessAnalysis"
+    "[interestedlob]": "[BusinessAnalysis]"
   },
   {
     "Photo": "photo/scelo.jpg",
@@ -149,7 +149,7 @@
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://zintlelutseke.github.io/Profile/",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
+    "[skills]": "[C#,HTML]",
+    "[interestedlob]": "[Business Analysis, UX Design]"
   }
 ]
