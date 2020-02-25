@@ -41,8 +41,8 @@
     "Year": 2020,
     "Program": "Sec",
     "Github link": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
+    "[skills]": "[C++, C#, Python]",
+    "[interestedlob]": "[Security]"
   },
   {
     "Photo": "photo/devin.png",
@@ -151,14 +151,5 @@
     "Github link": "https://zintlelutseke.github.io/Profile/",
     "[skills]": "[skills]",
     "[interestedlob]": "[interested lob]"
-  },
-  {
-    "Photo":"photo/cedrick.png",
-    "Name": "Cedrick Platt",
-    "Year": 2020,
-    "Program": "NTT",
-    "Github link": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
-    "[skills]": "C++, C#, Python",
-    "[interestedlob]": "[Security]"
   }
 ]
