@@ -62,14 +62,14 @@
     "[skills]": "[Communication,Business Analysis,Data,C#]",
     "[interestedlob]": "[Data Analytics,Business Analysis]"
   },
-  {
+ {
     "Photo": "photo/ehi.jpg",
     "Name": "Ehimemhem Okharedia",
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://ehimee.github.io/MyBio/",
-    "[skills]": "[skills]",
-    "[interestedlob]": "[interested lob]"
+    "[skills]": "C#(Software Development), Python (Data Analysis), Business Analysis and Requirements gathering ",
+    "[interestedlob]": "Data Analytics, Business Analysis and Software Development "
   },
   {
     "Photo": "photo/jesse.jpg",
