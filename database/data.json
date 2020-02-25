@@ -153,11 +153,12 @@
     "[interestedlob]": "[interested lob]"
   },
   {
+    "Photo":"photo/cedrick.png",
     "Name": "Cedrick Platt",
     "Year": 2020,
     "Program": "NTT",
     "Github link": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
     "[skills]": "C++, C#, Python",
-    "[interestedlob]": "Security"
+    "[interestedlob]": "[Security]"
   }
 ]
