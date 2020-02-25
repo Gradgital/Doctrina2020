@@ -1,6 +1,6 @@
 [
   {
-    "Photo": "photo/aamina.png",
+    "Photo": "photo/aamina.jpg",
     "Name": "Aamina Khatib",
     "Year": 2020,
     "Program": "Jr Software Developer",
@@ -9,7 +9,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/anele.png",
+    "Photo": "photo/anele.jpg",
     "Name": "Anele Noirita",
     "Year": 2020,
     "Program": "IW",
@@ -18,7 +18,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/tumi.png",
+    "Photo": "photo/tumi.jpg",
     "Name": "Boitumelo Mosala",
     "Year": 2020,
     "Program": "IW",
@@ -27,7 +27,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/cecil.png",
+    "Photo": "photo/cecil.jpg",
     "Name": "Cecil Chris-Esema",
     "Year": 2020,
     "Program": "Sec",
@@ -36,7 +36,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/cedrick.png",
+    "Photo": "photo/cedrick.jpg",
     "Name": "Cedrick Platt",
     "Year": 2020,
     "Program": "Sec",
@@ -45,7 +45,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/devin.png",
+    "Photo": "photo/devin.jpg",
     "Name": "Devin Azzie",
     "Year": 2020,
     "Program": "Sec",
@@ -54,7 +54,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/dolly.png",
+    "Photo": "photo/dolly.jpg",
     "Name": "Dolly Ngwenya",
     "Year": 2020,
     "Program": "BH2.0",
@@ -63,7 +63,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/ehi.png",
+    "Photo": "photo/ehi.jpg",
     "Name": "Ehimemhem Okharedia",
     "Year": 2020,
     "Program": "BH2.0",
@@ -72,7 +72,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/jesse.png",
+    "Photo": "photo/jesse.jpg",
     "Name": "Jesse Thomas",
     "Year": 2020,
     "Program": "Sec",
@@ -81,7 +81,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/gift.png",
+    "Photo": "photo/gift.jpg",
     "Name": "Lehlohonolo Mokoena (Gift)",
     "Year": 2020,
     "Program": "IW",
@@ -90,7 +90,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/marlene.png",
+    "Photo": "photo/marlene.jpg",
     "Name": "MarlÃ©ne Eddie",
     "Year": 2020,
     "Program": "BH2.0",
@@ -99,7 +99,7 @@
     "[interestedlob]": "[Not sure yet]"
   },
   {
-    "Photo": "photo/ameen.png",
+    "Photo": "photo/ameen.jpg",
     "Name": "Mohammed Ameen Mayet",
     "Year": 2020,
     "Program": "IW",
@@ -108,7 +108,7 @@
     "[interestedlob]": "[Data Analytics/ BI Analyst]"
   },
   {
-    "Photo": "photo/ mohen.png",
+    "Photo": "photo/ mohen.jpg",
     "Name": "Mohen Koseelan",
     "Year": 2020,
     "Program": "IW",
@@ -117,7 +117,7 @@
     "[interestedlob]": "[Data Science]"
   },
   {
-    "Photo": "photo/molefi.png",
+    "Photo": "photo/molefi.jpg",
     "Name": "Molefi Ngakane",
     "Year": 2020,
     "Program": "IW",
@@ -126,7 +126,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/phindulo.png",
+    "Photo": "photo/phindulo.jpg",
     "Name": "Phindulo Nedzingahe",
     "Year": 2020,
     "Program": "BH2.0",
@@ -135,7 +135,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/scelo.png",
+    "Photo": "photo/scelo.jpg",
     "Name": "Scelo Nkabinde",
     "Year": 2020,
     "Program": "IW",
@@ -144,7 +144,7 @@
     "[interestedlob]": "[interested lob]"
   },
   {
-    "Photo": "photo/zintle.png",
+    "Photo": "photo/zintle.jpg",
     "Name": "Zintle Lutseke",
     "Year": 2020,
     "Program": "BH2.0",
