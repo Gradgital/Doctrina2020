@@ -5,8 +5,8 @@
     "Year": 2020,
     "Program": "Jr Software Developer",
     "Github link": "https://aaminakhatib.github.io",
-    "[skills]": "[UX design, Front-end development]",
-    "[interestedlob]": "[Business Line Applications]"
+    "skills": "UX design, Front-end development",
+    "interestedlob": "Apps"
   },
   {
     "Photo": "photo/anele.jpg",
@@ -14,8 +14,8 @@
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://anoroita.github.io/",
-    "[skills]": "[UX design, Front-End Development]",
-    "[interestedlob]": "[Enterprise Mobility]"
+    "skills": "UX design, Front-End Development",
+    "interestedlob": "Mobility"
   },
   {
     "Photo": "photo/tumi.jpg",
@@ -24,7 +24,7 @@
     "Program": "IW",
     "Github link": "https://tumi175.github.io",
     "[skills]": "C#, SQL, Andriod, R",
-    "[interestedlob]": "[interested lob]"
+    "interestedlob": "interested lob"
   },
   {
     "Photo": "photo/cecil.jpg",
@@ -33,7 +33,7 @@
     "Program": "Sec",
     "Github link": "https://chrislifeandtimes.github.io/HelloChris/",
     "[skills]": "[C#, Python, UX design, Web App Sec Testing]",
-    "[interestedlob]": "[Security, Apps, Mobility]"
+    "interestedlob": "Security, Apps, Mobility]"
   },
   {
     "Photo": "photo/cedrick.jpg",
@@ -41,8 +41,8 @@
     "Year": 2020,
     "Program": "Sec",
     "Github link": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
-    "[skills]": "[C++, C#, Python]",
-    "[interestedlob]": "[Security]"
+    "skills": "C++, C#, Python",
+    "interestedlob": "Security"
   },
   {
     "Photo": "photo/devin.jpg",
@@ -50,8 +50,8 @@
     "Year": 2020,
     "Program": "NTT Secure Coding Academy",
     "Github link": "https://DevOps901.github.io",
-    "[skills]": "Python, Javascript, HTML, CSS",
-    "[interestedlob]": "[Apps and Mobility]"
+    "skills": "Python, Javascript, HTML, CSS",
+    "interestedlob": "Apps and Mobility"
   },
   {
     "Photo": "photo/dolly.jpg",
@@ -59,8 +59,8 @@
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://dolly123276.github.io",
-    "[skills]": "[Communication,Business Analysis,Data,C#]",
-    "[interestedlob]": "[Consulting Services,Dynamics,Business Intelligence]"
+    "skills": "Communication,Business Analysis,Data,C#",
+    "interestedlob": "Consulting Services,Dynamics,Data Services"
   },
  {
     "Photo": "photo/ehi.jpg",
@@ -68,8 +68,8 @@
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://ehimee.github.io/MyBio/",
-    "[skills]": "C#(Software Development), Python (Data Analysis), Business Analysis and Requirements gathering ",
-    "[interestedlob]": "Data Analytics, Business Analysis and Software Development "
+    "skills": "C#, Python, Business Analysis",
+    "interestedlob": "Data Analytics, Business Analysis and Software Development "
   },
   {
     "Photo": "photo/jesse.jpg",
@@ -77,8 +77,8 @@
     "Year": 2020,
     "Program": "Sec",
     "Github link": "https://display-jesse.github.io/header/",
-    "[skills]": "[HTML, Python, Office suite(Excel, Word, Access, Power point)]",
-    "[interestedlob]": "[Security]"
+    "skills": "HTML, Python, Microsoft Office Suite",
+    "interestedlob": "Security"
   },
   {
     "Photo": "photo/gift.jpg",
@@ -86,8 +86,8 @@
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://giftbhm.github.io/giftbhm-FirstRep/",
-    "[skills]": "[C#,Java,HTML,CSS,WPF,Windows Forms, Android Development, Oracle SQL]",
-    "[interestedlob]": "[Apps, Data Services BI ]"
+    "skills": "C#,Java,HTML,CSS,WPF,Windows Forms, Android Development,SQL",
+    "interestedlob": "Apps, Data Services"
   },
   {
     "Photo": "photo/marlene.jpg",
@@ -95,8 +95,8 @@
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://marleneeddie.github.io",
-    "[skills]": "[Problem solving, Microsoft Word, Microsoft Excel, SQL]",
-    "[interestedlob]": "[Not sure yet]"
+    "skills": "Problem solving, Microsoft Office Suite, SQL",
+    "interestedlob": "[Not sure yet]"
   },
   {
     "Photo": "photo/ameen.jpg",
@@ -104,8 +104,8 @@
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://moeameen1.github.io/Mohammed-Ameen-Mayet/",
-    "[skills]": "[MYSQL, Python, HTML, Tableau, PowerBI, Microsoft Azure]",
-    "[interestedlob]": "[Data Analytics/ BI Analyst]"
+    "skills": "SQL, Python, HTML, Tableau, PowerBI, Microsoft Azure",
+    "interestedlob": "Data Services"
   },
   {
     "Photo": "photo/ mohen.jpg",
@@ -113,8 +113,8 @@
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://mohen97.github.io",
-    "[skills]": "[Pulling on git, Mathematical vibes, Problem creation, Afrikaans, Editing people's skills]",
-    "[interestedlob]": "[Data Science]"
+    "skills": "C++, Python, Matlab, Mathematica, Microsoft Office Suite",
+    "interestedlob": "Data Services"
   },
   {
     "Photo": "photo/molefi.jpg",
@@ -122,8 +122,8 @@
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://vice004.github.io/",
-    "[skills]": "[Java, C#, C++]",
-    "[interestedlob]": "[Web Development]"
+    "skills": "Java, C#, C++",
+    "interestedlob": "Web Development"
   },
   {
     "Photo": "photo/phindulo.jpg",
@@ -131,8 +131,8 @@
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://dajuiceinf.github.io",
-    "[skills]": "backendCoding",
-    "[interestedlob]": "[Business Analysis]"
+    "[skills]": "C#, C++",
+    "interestedlob": "Business Analysis"
   },
   {
     "Photo": "photo/scelo.jpg",
@@ -140,8 +140,8 @@
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://scelonkabinde.github.io/Scelo",
-    "[skills]": "Matlab, Python, C#",
-    "[interestedlob]": "Data Science, Business Analysis"
+    "skills": "Matlab, Python, C#",
+    "interestedlob": "Data Services, Consulting Services"
   },
   {
     "Photo": "photo/zintle.jpg",
@@ -149,7 +149,7 @@
     "Year": 2020,
     "Program": "BH2.0",
     "Github link": "https://zintlelutseke.github.io/Profile/",
-    "[skills]": "[C#,HTML,Systems Desing]",
-    "[interestedlob]": "[Business Analysis, UX/UI Design]"
+    "skills": "C#,HTML,Systems Desing",
+    "interestedlob": "Business Analysis, UX/UI Design"
   }
 ]
