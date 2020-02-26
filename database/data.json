@@ -23,7 +23,7 @@
     "Year": 2020,
     "Program": "IW",
     "Github link": "https://tumi175.github.io",
-    "[skills]": "C#, SQL, Andriod, R",
+    "skills": "C#, SQL, Andriod, R",
     "interestedlob": "interested lob"
   },
   {
@@ -32,8 +32,8 @@
     "Year": 2020,
     "Program": "Sec",
     "Github link": "https://chrislifeandtimes.github.io/HelloChris/",
-    "[skills]": "[C#, Python, UX design, Web App Sec Testing]",
-    "interestedlob": "Security, Apps, Mobility]"
+    "skills": "C#, Python, UX design, Web App Sec Testing",
+    "interestedlob": "Security, Apps, Mobility"
   },
   {
     "Photo": "photo/cedrick.jpg",
