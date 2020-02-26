@@ -24,7 +24,7 @@
     "Program": "IW",
     "Github link": "https://tumi175.github.io",
     "skills": "C#, SQL, Andriod, R",
-    "interestedlob": "interested lob"
+    "interestedlob": "Data Services"
   },
   {
     "Photo": "photo/cecil.jpg",
@@ -69,7 +69,7 @@
     "Program": "BH2.0",
     "Github link": "https://ehimee.github.io/MyBio/",
     "skills": "C#, Python, Business Analysis",
-    "interestedlob": "Data Analytics, Business Analysis and Software Development "
+    "interestedlob": "Apps, Data Services, Consulting Services "
   },
   {
     "Photo": "photo/jesse.jpg",
@@ -96,7 +96,7 @@
     "Program": "BH2.0",
     "Github link": "https://marleneeddie.github.io",
     "skills": "Problem solving, Microsoft Office Suite, SQL",
-    "interestedlob": "[Not sure yet]"
+    "interestedlob": "Undefined"
   },
   {
     "Photo": "photo/ameen.jpg",
@@ -123,7 +123,7 @@
     "Program": "IW",
     "Github link": "https://vice004.github.io/",
     "skills": "Java, C#, C++",
-    "interestedlob": "Web Development"
+    "interestedlob": "Apps"
   },
   {
     "Photo": "photo/phindulo.jpg",
@@ -132,7 +132,7 @@
     "Program": "BH2.0",
     "Github link": "https://dajuiceinf.github.io",
     "[skills]": "C#, C++",
-    "interestedlob": "Business Analysis"
+    "interestedlob": "Mobility,Data services "
   },
   {
     "Photo": "photo/scelo.jpg",
@@ -150,6 +150,6 @@
     "Program": "BH2.0",
     "Github link": "https://zintlelutseke.github.io/Profile/",
     "skills": "C#,HTML,Systems Desing",
-    "interestedlob": "Business Analysis, UX/UI Design"
+    "interestedlob": "Consulting Services"
   }
 ]
