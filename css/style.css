@@ -82,7 +82,7 @@ a:hover {
 
 .text-brand {
   color: #000000;
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 600;
 }
 
@@ -230,7 +230,7 @@ a:hover {
 /*------/ Space Padding /------*/
 
 .section-t8 {
-  padding-top: 8rem;
+  padding-top: 1rem;
 }
 
 .section-t4 {
@@ -950,7 +950,7 @@ a:hover {
 /*------/ Intro Single /------*/
 
 .intro-single {
-  padding: 12rem 0 3rem;
+  padding: 4rem 0 3rem;
 }
 
 .intro-single .title-single-box {
