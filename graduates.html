@@ -76,7 +76,7 @@
     "Photo": "img/grad-4.jpg",
     "Name": "Cecil Chris-Esema",
     "Year": 2020,
-    "Program": "Sec",
+    "Program": "Secure Coding Academy",
     "GithubLink": "https://chrislifeandtimes.github.io/HelloChris/",
     "skills": "C#, Python, UX design, Web App Sec Testing",
     "interestedlob": "Security, Apps, Mobility",
@@ -87,7 +87,7 @@
     "Photo": "img/grad-5.jpg",
     "Name": "Cedrick Platt",
     "Year": 2020,
-    "Program": "Sec",
+    "Program": "Secure Coding Academy",
     "GithubLink": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
     "skills": "C++, C#, Python",
     "interestedlob": "Security",
@@ -98,7 +98,7 @@
     "Photo": "img/grad-6.jpg",
     "Name": "Devin Azzie",
     "Year": 2020,
-    "Program": "Sec",
+    "Program": "Secure Coding Academy",
     "GithubLink": "https://DevOps901.github.io",
     "skills": "Python, Javascript, HTML, CSS",
     "interestedlob": "Apps and Mobility",
@@ -131,7 +131,7 @@
     "Photo": "img/grad-10.jpg",
     "Name": "Jesse Thomas",
     "Year": 2020,
-    "Program": "Sec",
+    "Program": "Secure Coding Academy",
     "GithubLink": "https://display-jesse.github.io/header/",
     "skills": "HTML, Python, Microsoft Office Suite",
     "interestedlob": "Security",
@@ -421,18 +421,22 @@
                             document.write("<div class='card-overlay card-overlay-hover'>");
                             document.write("<div class='card-header-d'>");
                             document.write("<div class='card-title-d align-self-center'>");
-                            document.write("<h3 class='title-d'><a href='"+ employees[i].GithubLink +"' class='link-two'>");
+                            document.write("<h3 class='title-d'>");
                             document.write(employees[i].Name + "</a></h3>");     
                             document.write("</div></div>");
 
                             document.write("<div class='card-body-d'>");
-                            document.write("<p class='content-d color-text-a'>"+ employees[i].skills +"</p>");
                             document.write("<div class='info-agents color-a'>");
-                            document.write("<p><strong>Program: </strong>"+ employees[i].Program +"</p>");
-                            document.write("</div></div>");
+                            document.write("<p><strong>Skills: </strong>"+ employees[i].skills +"</p>");
+                            document.write("<div class='info-agents color-a'>");
+                            document.write("<p><strong>Program: </strong>"+ employees[i].Program +"</p>");                            
+                            document.write("</div></div></div>");
 
                             document.write("<div class='card-footer-d'><div class='socials-footer d-flex justify-content-center'>");
                             document.write("<ul class='list-inline'>");
+                            document.write("<li class='list-inline-item'><a href='"+ employees[i].GithubLink +"' class='link-one'>");                               
+                            document.write("<i class='fa fa-globe' aria-hidden='true'></i>");                         
+                            document.write("</a></li>");                               
                             document.write("<li class='list-inline-item'><a href='"+ employees[i].GithubRepo +"' class='link-one'>");                               
                             document.write("<i class='fa fa-github' aria-hidden='true'></i>");                         
                             document.write("</a></li>");
