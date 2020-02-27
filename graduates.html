@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Graduates</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicons -->
+    <link href="img/favicon.ico" rel="icon">
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+
+    <!-- Bootstrap CSS File -->
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Libraries CSS Files -->
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Main Stylesheet File -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+    Theme Name: EstateAgency
+    Theme URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+
+  <script>
+
+    //var options = {valueNames:['Name', 'Year', 'Program', 'skills']};
+
+    var employees =[
+    {
+    "Photo": "img/grad-1.jpg",
+    "Name": "Aamina Khatib",
+    "Year": 2020,
+    "Program": "Jr Software Developer",
+    "GithubLink": "https://aaminakhatib.github.io",
+    "skills": "UX design, Front-end development, CSS, HTML, Problem solving",
+    "interestedlob": "Apps",
+    "GithubRepo": "https://github.com/AaminaKhatib",
+    "Linkdin" : "https://www.linkedin.com/in/aamina-khatib/"
+  },
+  {
+    "Photo": "img/grad-3.jpg",
+    "Name": "Anele Noroita",
+    "Year": 2020,
+    "Program": "IW",
+    "GithubLink": "https://anoroita.github.io/",
+    "skills": "UX design, Front-End Development",
+    "interestedlob": "Mobility",
+    "GithubRepo": "https://github.com/anoroita",
+    "Linkdin" : "https://www.linkedin.com/in/anele-noroita-357916130/"
+  },
+  {
+    "Photo": "img/grad-16.jpg",
+    "Name": "Boitumelo Mosala",
+    "Year": 2020,
+    "Program": "IW",
+    "GithubLink": "https://tumi175.github.io",
+    "skills": "C#, SQL, Andriod, R",
+    "interestedlob": "Data Services",
+    "GithubRepo": "https://github.com/Tumi175",
+    "Linkdin" : "https://www.linkedin.com/in/boitumelo-mosala-8720b014a/"
+  },
+  {
+    "Photo": "img/grad-4.jpg",
+    "Name": "Cecil Chris-Esema",
+    "Year": 2020,
+    "Program": "Secure Coding Academy",
+    "GithubLink": "https://chrislifeandtimes.github.io/HelloChris/",
+    "skills": "C#, Python, UX design, Web App Sec Testing",
+    "interestedlob": "Security, Apps, Mobility",
+    "GithubRepo": "https://github.com/Chrislifeandtimes",
+    "Linkdin" : "https://www.linkedin.com/in/cecil-chris-esema-466016105/?originalSubdomain=za"
+  },
+  {
+    "Photo": "img/grad-5.jpg",
+    "Name": "Cedrick Platt",
+    "Year": 2020,
+    "Program": "Secure Coding Academy",
+    "GithubLink": "https://its-ced-it-works.github.io/its-Ced-It-Works.io/",
+    "skills": "C++, C#, Python",
+    "interestedlob": "Security",
+    "GithubRepo": "https://github.com/its-Ced-It-Works",
+    "Linkdin" : "https://www.linkedin.com/in/cedrickplatt/"
+  },
+  {
+    "Photo": "img/grad-6.jpg",
+    "Name": "Devin Azzie",
+    "Year": 2020,
+    "Program": "Secure Coding Academy",
+    "GithubLink": "https://DevOps901.github.io",
+    "skills": "Python, Javascript, HTML, CSS",
+    "interestedlob": "Apps and Mobility",
+    "GithubRepo": "https://github.com/DevOps901",
+    "Linkdin" : "https://www.linkedin.com/in/devin-azzie-7330b6167/"
+  },
+  {
+    "Photo": "img/grad-7.jpg",
+    "Name": "Dolly Ngwenya",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "GithubLink": "https://dolly123276.github.io",
+    "skills": "Communication,Business Analysis,Data,C#",
+    "interestedlob": "Consulting Services,Dynamics,Data Services",
+    "GithubRepo": "https://github.com/Dolly123276",
+    "Linkdin" : "https://www.linkedin.com/in/dolly-venon-441732141/"
+  },
+ {
+    "Photo": "img/grad-8.jpg",
+    "Name": "Ehimemhem Okharedia",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "GithubLink": "https://ehimee.github.io/MyBio/",
+    "skills": "C#, Python, Business Analysis",
+    "interestedlob": "Apps, Data Services, Consulting Services",
+    "GithubRepo": "https://github.com/Ehimee",
+    "Linkdin" : "https://www.linkedin.com/in/ehimemhen-okharedia-5392b6135/?originalSubdomain=za"
+  },
+  {
+    "Photo": "img/grad-10.jpg",
+    "Name": "Jesse Thomas",
+    "Year": 2020,
+    "Program": "Secure Coding Academy",
+    "GithubLink": "https://display-jesse.github.io/header/",
+    "skills": "HTML, Python, Microsoft Office Suite",
+    "interestedlob": "Security",
+    "GithubRepo": "https://github.com/display-jesse",
+    "Linkdin" : "https://www.linkedin.com/in/jesse-neil-t-4b92b3122/"
+  },
+  {
+    "Photo": "img/grad-9.jpg",
+    "Name": "Lehlohonolo Mokoena (Gift)",
+    "Year": 2020,
+    "Program": "IW",
+    "GithubLink": "https://giftbhm.github.io/giftbhm-FirstRep/",
+    "skills": "C#,Java,HTML,CSS,WPF,Windows Forms, Android Development,SQL",
+    "interestedlob": "Apps, Data Services",
+    "GithubRepo": "https://github.com/giftbhm",
+    "Linkdin" : "https://www.linkedin.com/in/lehlohonolo-gift-mokoena-412a32a2/"
+  },
+  {
+    "Photo": "img/grad-11.jpg",
+    "Name": "Marléne Eddie",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "GithubLink": "https://marleneeddie.github.io",
+    "skills": "Problem solving, Microsoft Office Suite, SQL",
+    "interestedlob": "Undefined",
+    "GithubRepo": "https://github.com/MarleneEddie",
+    "Linkdin" : "https://www.linkedin.com/in/marl%C3%A9ne-eddie-1988ab139/"
+  },
+  {
+    "Photo": "img/grad-2.jpg",
+    "Name": "Mohammed Ameen Mayet",
+    "Year": 2020,
+    "Program": "IW",
+    "GithubLink": "https://moeameen1.github.io/Mohammed-Ameen-Mayet/",
+    "skills": "SQL, Python, HTML, Tableau, PowerBI, Microsoft Azure",
+    "interestedlob": "Data Services",
+    "GithubRepo": "https://github.com/MoeAmeen1",
+    "Linkdin" : "https://www.linkedin.com/in/mohammed-ameen-mayet-08163816a/"
+  },
+  {
+    "Photo": "img/grad-12.jpg",
+    "Name": "Mohen Koseelan",
+    "Year": 2020,
+    "Program": "IW",
+    "GithubLink": "https://mohen97.github.io",
+    "skills": "C++, Python, Matlab, Mathematica, Microsoft Office Suite",
+    "interestedlob": "Data Services",
+    "GithubRepo": "https://github.com/mohen97",
+    "Linkdin" : "https://www.linkedin.com/in/mohen-koseelan-035ab5112/"
+  },
+  {
+    "Photo": "img/grad-13.jpg",
+    "Name": "Molefi Ngakane",
+    "Year": 2020,
+    "Program": "IW",
+    "GithubLink": "https://vice004.github.io/",
+    "skills": "Java, C#, C++, HTML, CSS, ASMx86, SQL, PHP, VB.NET",
+    "interestedlob": "Apps",
+    "GithubRepo": "https://github.com/Vice004",
+    "Linkdin" : "https://www.linkedin.com/in/molefi-ngakane-137b60197/"
+  },
+  {
+    "Photo": "img/grad-14.jpg",
+    "Name": "Phindulo Nedzingahe",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "GithubLink": "https://dajuiceinf.github.io",
+    "skills": "C#, C++",
+    "interestedlob": "Mobility,Data services",
+    "GithubRepo": "https://github.com/DaJuiceINF",
+    "Linkdin" : "https://www.linkedin.com/in/phindulo-nedzingahe-b95446189/"
+  },
+  {
+    "Photo": "img/grad-15.jpg",
+    "Name": "Scelo Nkabinde",
+    "Year": 2020,
+    "Program": "IW",
+    "GithubLink": "https://scelonkabinde.github.io/Scelo",
+    "skills": "Matlab, Python, C#",
+    "interestedlob": "Data Services, Consulting Services",
+    "GithubRepo": "https://github.com/SceloNkabinde",
+    "Linkdin" : "https://www.linkedin.com/in/scelo-nkabinde/"
+  },
+  {
+    "Photo": "img/grad-17.jpg",
+    "Name": "Zintle Lutseke",
+    "Year": 2020,
+    "Program": "BH2.0",
+    "GithubLink": "https://zintlelutseke.github.io/Profile/",
+    "skills": "C#,HTML,Systems Design",
+    "interestedlob": "Consulting Services",
+    "GithubRepo": "https://github.com/zintlelutseke/Profile",
+    "Linkdin" : "https://www.linkedin.com/in/ntlentle-lutseke-1b3770161/"
+  }
+];
+</script>
+</head>
+
+<body>
+    <div class="click-closed"></div>
+    <!--/ Form Search Star /-->
+    <div class="box-collapse">
+        <div class="title-box-d">
+            <h3 class="title-d">Search Graduates</h3>
+        </div>
+        <span class="close-box-collapse right-boxed ion-ios-close"></span>
+        <div class="box-collapse-wrap form">
+            <form class="form-a">
+                <div class="row">
+                    <div class="col-md-12 mb-2">
+                        <div class="form-group">
+                            <label for="Type">Name</label>
+                            <input type="text" class="form-control form-control-lg form-control-a"
+                                placeholder="Type full name" id="name">
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-2">
+                        <div class="form-group">
+                            <label for="Type">Year</label>
+                            <select class="form-control form-control-lg form-control-a" id="year">
+                                <option selected>All</option>
+                                <option>2019</option>
+                                <option>2020</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-2">
+                        <div class="form-group">
+                            <label for="program">Program</label>
+                            <select class="form-control form-control-lg form-control-a" id="program">
+                                <option value="All" selected>All</option>
+                                <option value="Jr Software Developer">Junior Software Developer</option>
+                                <option value="BH2.0">Britehouse 2.0</option>
+                                <option value="IW">Intelligent Workplace</option>
+                                <option value="Secure Coding Academy">NTT Security</option>
+                                <option>GAP Graduates</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-2">
+                        <div class="form-group">
+                            <label for="bedrooms">Lob Interest</label>
+                            <select class="form-control form-control-lg form-control-a" id="lobs">
+                                <option selected>All</option>
+                                <option>Apps Development</option>
+                                <option>Consulting Services</option>
+                                <option>Data Services</option>
+                                <option>Deployment Solutions</option>
+                                <option>Dynamics</option>
+                                <option>Mobility</option>
+                                <option>Productivity</option>
+                                <option>Public Sector</option>
+                                <option>Security</option>
+                                <option>Software Services</option>
+                                <option>Undefined</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <button type="submit" onclick="filterGrads()" class="btn btn-b">Search Graduates</button>
+                </div>
+        </div>
+        </form>
+    </div>
+    </div>
+    <!--/ Form Search End /-->
+
+    <!--/ Nav Star /-->
+    <nav class="navbar navbar-default navbar-trans navbar-expand-lg fixed-top">
+        <div class="container">
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
+                aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <a class="navbar-brand text-brand" href="index.html">Doc<span class="color-b">trina</span></a>
+            <button type="button" class="btn btn-link nav-search navbar-toggle-box-collapse d-md-none"
+                data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-expanded="false">
+                <span class="fa fa-search" aria-hidden="true"></span>
+            </button>
+            <div class="navbar-collapse collapse justify-content-center" id="navbarDefault">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html#about">About Doctrina</a>
+                    </li>                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="login.html">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="register.html">Register</a>
+                    </li>
+                </ul>
+            </div>
+            <button type="button" class="btn btn-b-n navbar-toggle-box-collapse d-none d-md-block"
+                data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-expanded="false">
+                <span class="fa fa-search" aria-hidden="true"></span>
+            </button>
+        </div>
+    </nav>
+    <!--/ Nav End /-->
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>    
+    <!--/ Agents Star /-->
+    <section class="section-agents section-t8">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="title-wrap d-flex justify-content-between">
+                        <div class="title-box">
+                            <h2 class="title-a">Our Graduates</h2>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                              <nav class="pagination-a">
+                                <ul class="pagination justify-content-end">
+                                  <li class="page-item">
+                                    <a class="page-link" href="2019_grads.html">2019</a>
+                                  </li>
+                                  <li class="page-item active">
+                                    <a class="page-link" href="graduates.html">2020</a>
+                                  </li>
+                                </ul>
+                              </nav>
+                            </div>
+                          </div>                        
+                        <div class="grid-option">
+                            <form>
+                            <!--<label for="skills">Skills</label>-->
+                              <select onchange="filter()" class="custom-select" id="skills">
+                                <option selected>All</option>
+                                <option >Android</option>
+                                <option >Business Analysis</option>
+                                <option >C#</option>
+                                <option>C++</option>
+                                <option>Communication</option>
+                                <option>CSS</option>
+                                <option>Front-end development</option>
+                                <option>HTML</option>
+                                <option>JAVA</option>
+                                <option>Javascript</option>
+                                <option>Mathematica</option>
+                                <option>Matlab</option>
+                                <option>Microsoft Azure</option>
+                                <option>Microsoft office suite</option>
+                                <option>PowerBI</option>
+                                <option>Problem solving</option>
+                                <option>Python</option>
+                                <option>R</option>
+                                <option>SQL</option>      
+                                <option>Tableau</option>
+                                <option>UX design </option>
+                                <option>Web App Security Testing</option>
+                                <option>Windows forms</option>
+                                <option>WPF</option>     
+                              </select>
+                            </form>
+                          </div>                      
+                    </div>
+                </div>
+            </div>
+
+            <style>
+                .card-padding{
+                    padding-top: 30px;
+                }
+            </style>
+            <!--Content Start-->
+            <div class="content" id="content">
+                <script>
+                    document.write("<div class='row'>");
+                    var count=0;
+                    for(i=0; i<employees.length;i++){
+                        //if(((employees[i].Program) == "IW")){
+                            document.write("<div class='col-md-4'>");
+                            document.write("<div class='card-padding'>");
+                            document.write("<div class='profile'>");
+                            document.write("<div class='card-box-d'>");
+
+                            document.write("<div class='card-img-d'>");
+                            document.write("<img class='img-d img-fluid' src='"+employees[i].Photo+"' alt='Card image cap'>");
+                            document.write("</div>");
+
+                            document.write("<div class='card-overlay card-overlay-hover'>");
+                            document.write("<div class='card-header-d'>");
+                            document.write("<div class='card-title-d align-self-center'>");
+                            document.write("<h3 class='title-d'>");
+                            document.write(employees[i].Name + "</a></h3>");     
+                            document.write("</div></div>");
+
+                            document.write("<div class='card-body-d'>");
+                            document.write("<div class='info-agents color-a'>");
+                            document.write("<p><strong>Skills: </strong>"+ employees[i].skills +"</p>");
+                            document.write("<div class='info-agents color-a'>");
+                            document.write("<p><strong>Program: </strong>"+ employees[i].Program +"</p>");                            
+                            document.write("</div></div></div>");
+
+                            document.write("<div class='card-footer-d'><div class='socials-footer d-flex justify-content-center'>");
+                            document.write("<ul class='list-inline'>");
+                            document.write("<li class='list-inline-item'><a href='"+ employees[i].GithubLink +"' class='link-one'>");                               
+                            document.write("<i class='fa fa-globe' aria-hidden='true'></i>");                         
+                            document.write("</a></li>");                               
+                            document.write("<li class='list-inline-item'><a href='"+ employees[i].GithubRepo +"' class='link-one'>");                               
+                            document.write("<i class='fa fa-github' aria-hidden='true'></i>");                         
+                            document.write("</a></li>");
+                            document.write("<li class='list-inline-item'><a href='"+ employees[i].Linkdin +"' class='link-one'>");
+                            document.write("<i class='fa fa-linkedin' aria-hidden='true'></i>");                           
+                            document.write("</a></li></ul>");                           
+                            document.write("</div></div>");
+                            document.write("</div></div>");
+                            document.write("</div></div></div>");
+                        //}
+                    }//for
+                    document.write("</div>");
+                 </script>
+            </div>
+
+
+            <br />
+            <br />
+
+        </div>
+        </div>
+    </section>
+    <!--/ Agents End /-->
+
+    <section class="section-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-4">
+                    <div class="widget-a">
+                        <div class="w-header-a">
+                            <h3 class="w-title-a text-brand">The Campus</h3>
+                        </div>
+                        <div class="w-body-a">
+                            <p class="w-text-a color-text-a">
+                                The Campus<br>
+                                Wembley Building<br>
+                                57 Sloane Street<br>
+                                Bryanston<br>
+                                2021
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 section-md-t3">
+                    <div class="widget-a">
+                        <div class="w-header-a">
+                            <h3 class="w-title-a text-brand">Britehouse Graduates Supervisors</h3>
+                        </div>
+                        <div class="w-body-a">
+                            <div class="w-body-a">
+                                <ul class="list-unstyled">
+                                    <li class="item-list-a">
+                                        <i class="fa fa-angle-right"></i> <a href="#">Britehouse 2.0</a>
+                                    </li>
+                                    <li class="item-list-a">
+                                        <i class="fa fa-angle-right"></i> <a href="#">Intelligent Workplace</a>
+                                    </li>
+                                    <li class="item-list-a">
+                                        <i class="fa fa-angle-right"></i> <a href="#">Secure Coding Academy</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 section-md-t3">
+                    <div class="widget-a">
+                        <div class="w-header-a">
+                            <h3 class="w-title-a text-brand">Dimension Data Graduates Supervisors</h3>
+                        </div>
+                        <div class="w-body-a">
+                            <ul class="list-unstyled">
+                                <li class="item-list-a">
+                                    <i class="fa fa-angle-right"></i> <a href="#">GAP Graduates</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- <nav class="nav-footer">
+                        <ul class="list-inline">
+                            <li class="list-inline-item">
+                                <a href="#">View our Socials</a>
+                            </li>
+                        </ul>
+                    </nav> -->
+                    <div class="socials-a">
+                        <ul class="list-inline">
+                            <!-- <li class="list-inline-item">
+                                <a href="#">
+                                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                                </a>
+                            </li> -->
+                            <li class="list-inline-item">
+                                <a href="https://github.com/Gradgital/Doctrina2020">
+                                    <i class="fa fa-github" aria-hidden="true"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--/ Footer End /-->
+
+    <!--Filter functions-->
+    <script type="text/javascript">
+
+        function filterGrads(){
+            var program,name,lob,element;
+            var year;
+            var result = "";
+
+            //element = document.getElementById("content");
+            //element.value = dep;
+            //dep =element.innerHTML;
+            program = document.getElementById("program").value.toUpperCase();
+            result += "<div class='row'>";
+                for(i=0; i<employees.length;i++){
+                    if(employees[i].program.toUpperCase() == program){
+                        result +="<div class='col-md-4'>";
+                    result +="<div class='card-padding'>";
+                    result +="<div class='profile'>";
+                    result +="<div class='card-box-d'>";
+
+                    result +="<div class='card-img-d'>";
+                    result +="<img class='img-d img-fluid' src='"+employees[i].Photo+"' alt='Card image cap'>";
+                    result +="</div>";
+
+                    result +="<div class='card-overlay card-overlay-hover'>";
+                    result +="<div class='card-header-d'>";
+                    result +="<div class='card-title-d align-self-center'>";
+                    result +="<h3 class='title-d'>";
+                    result +=employees[i].Name + "</a></h3>";     
+                    result +="</div></div>";
+
+                    result +="<div class='card-body-d'>";
+                    result +="<div class='info-agents color-a'>";
+                    result +="<p><strong>Skills: </strong>"+ employees[i].skills +"</p>";
+                    result +="<div class='info-agents color-a'>";
+                    result +="<p><strong>Program: </strong>"+ employees[i].Program +"</p>";                            
+                    result +="</div></div></div>";
+
+                    result +="<div class='card-footer-d'><div class='socials-footer d-flex justify-content-center'>";
+                    result +="<ul class='list-inline'>";
+                    result +="<li class='list-inline-item'><a href='"+ employees[i].GithubLink +"' class='link-one'>";                               
+                    result +="<i class='fa fa-globe' aria-hidden='true'></i>";                         
+                    result +="</a></li>";                               
+                    result +="<li class='list-inline-item'><a href='"+ employees[i].GithubRepo +"' class='link-one'>";                               
+                    result +="<i class='fa fa-github' aria-hidden='true'></i>";                         
+                    result +="</a></li>";
+                    result +="<li class='list-inline-item'><a href='"+ employees[i].Linkdin +"' class='link-one'>";
+                    result +="<i class='fa fa-linkedin' aria-hidden='true'></i>";                           
+                    result +="</a></li></ul>";                           
+                    result +="</div></div>";
+                    result +="</div></div>";
+                    result +="</div></div></div>";
+                    }//if
+                }//for-loop
+            result += "</div>";
+            document.getElementById("content").innerHTML = result;
+        }
+        //skills filter
+        function filter(){
+            var skills;
+            var result="";
+
+            skills = document.getElementById("skills").value.toUpperCase();
+            document.getElementById("content").innerHTML = "";
+            result += "<div class='row'>";
+            for(i=0;i<employees.length;i++){
+                var skill = employees[i].skills.toUpperCase();
+                var pos = skill.indexOf(skills);
+                if(pos >= 0){
+                    result +="<div class='col-md-4'>";
+                    result +="<div class='card-padding'>";
+                    result +="<div class='profile'>";
+                    result +="<div class='card-box-d'>";
+
+                    result +="<div class='card-img-d'>";
+                    result +="<img class='img-d img-fluid' src='"+employees[i].Photo+"' alt='Card image cap'>";
+                    result +="</div>";
+
+                    result +="<div class='card-overlay card-overlay-hover'>";
+                    result +="<div class='card-header-d'>";
+                    result +="<div class='card-title-d align-self-center'>";
+                    result +="<h3 class='title-d'>";
+                    result +=employees[i].Name + "</a></h3>";     
+                    result +="</div></div>";
+
+                    result +="<div class='card-body-d'>";
+                    result +="<div class='info-agents color-a'>";
+                    result +="<p><strong>Skills: </strong>"+ employees[i].skills +"</p>";
+                    result +="<div class='info-agents color-a'>";
+                    result +="<p><strong>Program: </strong>"+ employees[i].Program +"</p>";                            
+                    result +="</div></div></div>";
+
+                    result +="<div class='card-footer-d'><div class='socials-footer d-flex justify-content-center'>";
+                    result +="<ul class='list-inline'>";
+                    result +="<li class='list-inline-item'><a href='"+ employees[i].GithubLink +"' class='link-one'>";                               
+                    result +="<i class='fa fa-globe' aria-hidden='true'></i>";                         
+                    result +="</a></li>";                               
+                    result +="<li class='list-inline-item'><a href='"+ employees[i].GithubRepo +"' class='link-one'>";                               
+                    result +="<i class='fa fa-github' aria-hidden='true'></i>";                         
+                    result +="</a></li>";
+                    result +="<li class='list-inline-item'><a href='"+ employees[i].Linkdin +"' class='link-one'>";
+                    result +="<i class='fa fa-linkedin' aria-hidden='true'></i>";                           
+                    result +="</a></li></ul>";                           
+                    result +="</div></div>";
+                    result +="</div></div>";
+                    result +="</div></div></div>";
+                }//if
+
+            }//for
+            result += "</div>";
+            document.getElementById("content").innerHTML = result;
+
+        }
+
+    </script>
+
+    <!-- JavaScript Libraries -->
+    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="lib/jquery/jquery-migrate.min.js"></script>
+    <script src="lib/popper/popper.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/scrollreveal/scrollreveal.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/superfish/hoverIntent.js"></script>
+    <script src="lib/superfish/superfish.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+    <!-- Template Main Javascript File -->
+    <script src="js/main.js"></script>
+</body>
