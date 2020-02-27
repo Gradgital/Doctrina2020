@@ -362,7 +362,13 @@
                     </div>
                 </div>
             </div>
-            
+
+            <style>
+                .card-padding{
+                    padding-top: 30px;
+                }
+            </style>
+
             <div class="content" id="content">
                 <script>
                     document.write("<div class='row'>");
@@ -370,6 +376,7 @@
                     for(i=0; i<employees.length;i++){
                         //if(((employees[i].Program) == "IW")){
                             document.write("<div class='col-md-4'>");
+                            document.write("<div class='card-padding'>");
                             document.write("<div class='profile'>");
                             document.write("<div class='card-box-d'>");
 
@@ -399,7 +406,7 @@
                             document.write("</div></div>");
 
                             document.write("</div></div>");
-                            document.write("</div></div>");
+                            document.write("</div></div></div>");
                         //}
                     }//for
                     document.write("</div>");
