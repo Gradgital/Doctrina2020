@@ -11,6 +11,28 @@
     "Linkdin" : "https://www.linkedin.com/in/aamina-khatib/"
   },
   {
+    "Photo": "img/grad-18.JPG",
+    "Name": "Aidan Nunn",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://aidanjnunn.github.io/Atom/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/aidanjnunn",
+    "Linkdin" : "https://www.linkedin.com/in/aidan-nunn-389ba7159/"
+  },
+  {
+    "Photo": "img/grad-19.png",
+    "Name": "Amy Martin",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://amy-rose97.github.io/Hello-Amy/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/amy-rose97",
+    "Linkdin" : "https://www.linkedin.com/in/amyrosemartin/"
+  },
+  {
     "Photo": "img/grad-3.jpg",
     "Name": "Anele Noroita",
     "Year": 2020,
@@ -20,6 +42,28 @@
     "interestedlob": "Mobility",
     "GithubRepo": "https://github.com/anoroita",
     "Linkdin" : "https://www.linkedin.com/in/anele-noroita-357916130/"
+  },
+  {
+    "Photo": "img/grad-20.jpg",
+    "Name": "Angus van Niekerk",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://angusvn.github.io/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/angusvn",
+    "Linkdin" : "https://www.linkedin.com/in/amyrosemartin/"
+  },
+    {
+    "Photo": "img/grad-29.jpg",
+    "Name": "Aura Chimhandamba",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://nyashac-01.github.io/hello-world/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/nyashac-01",
+    "Linkdin" : "https://www.linkedin.com/in/nyasha-chimhandamba-9723bb12b/"
   },
   {
     "Photo": "img/grad-16.jpg",
@@ -55,15 +99,48 @@
     "Linkdin" : "https://www.linkedin.com/in/cedrickplatt/"
   },
   {
+    "Photo": "img/grad-21.jpg",
+    "Name": "Dali Ngubane",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://dalingcebo1.github.io/CV/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/dalingcebo1",
+    "Linkdin" : "https://www.linkedin.com/in/dalingcebo-ngubane-3b97a512a/"
+  },
+  {
+    "Photo": "img/user-icon.png",
+    "Name": "Darshil Ramchander",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://darshil4.github.io/darsh.github.io/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/darshil4",
+    "Linkdin" : "https://www.linkedin.com/in/darshil-ramchander-134869121/"
+  },
+  {
     "Photo": "img/grad-6.jpg",
     "Name": "Devin Azzie",
     "Year": 2020,
     "Program": "Secure Coding Academy",
     "GithubLink": "https://DevOps901.github.io",
     "skills": "Python, Javascript, HTML, CSS",
-    "interestedlob": "Apps, Data Services, Security",
+    "interestedlob": "Apps and Mobility",
     "GithubRepo": "https://github.com/DevOps901",
     "Linkdin" : "https://www.linkedin.com/in/devin-azzie-7330b6167/"
+  },
+  {
+    "Photo": "img/grad-22.png",
+    "Name": "Dibueng Bosman",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://dibzrozb.github.io/Dibueng-Bosman/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/dibzrozb",
+    "Linkdin" : "https://www.linkedin.com/in/darshil-ramchander-134869121/"
   },
   {
     "Photo": "img/grad-7.jpg",
@@ -93,10 +170,54 @@
     "Year": 2020,
     "Program": "Secure Coding Academy",
     "GithubLink": "https://display-jesse.github.io/header/",
-    "skills": "HTML, Python, Microsoft Office Suite",
-    "interestedlob": "Security",
+    "skills": "HTML, Python, Microsoft Office Suite, CSS, Microsoft Azure",
+    "interestedlob": "Security, Apps, Mobility",
     "GithubRepo": "https://github.com/display-jesse",
     "Linkdin" : "https://www.linkedin.com/in/jesse-neil-t-4b92b3122/"
+  },
+  {
+    "Photo": "img/grad-23.jpg",
+    "Name": "Kamogelo Molaba",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://kamo-98.github.io/Kamokgelo-Molaba/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/kamo-98.github",
+    "Linkdin" : "https://www.linkedin.com/in/kamokgelo-molaba-556a23168/"
+  },
+  {
+    "Photo": "img/grad-24.jpg",
+    "Name": "Karabo Sephofane",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://kb-lab.github.io/Welcome-/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/kb-lab.github",
+    "Linkdin" : "linkedin.com/in/karabo-arnold-6bbab7130"
+  },
+  {
+    "Photo": "img/grad-26.jpg",
+    "Name": "Kim Jones",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://kimberleyjones1997.github.io/KimJones1997.github.io/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/kimberleyjones1997",
+    "Linkdin" : "https://www.linkedin.com/in/kimberley-jones-aba4921a1/"
+  },
+  {
+    "Photo": "img/grad-25.JPG",
+    "Name": "Kyla Rautenbach",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://kayla1703.github.io/Kayla/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/kayla1703",
+    "Linkdin" : "https://www.linkedin.com/in/kayla-rautenbach-437307161/"
   },
   {
     "Photo": "img/grad-9.jpg",
@@ -121,8 +242,19 @@
     "Linkdin" : "https://www.linkedin.com/in/marl%C3%A9ne-eddie-1988ab139/"
   },
   {
+    "Photo": "img/grad-27.jpg",
+    "Name": "Mathabo Ntshangase",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://mathabo96.github.io/hello-world/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/mathabo96",
+    "Linkdin" : "https://www.linkedin.com/in/mathabo-ntshangase-202ab1142/"
+  },
+  {
     "Photo": "img/grad-2.jpg",
-    "Name": "Mohammed Ameen Mayet",
+    "Name": "Mohammed Ameen Bashir Ahmed Mayet",
     "Year": 2020,
     "Program": "IW",
     "GithubLink": "https://moeameen1.github.io/Mohammed-Ameen-Mayet/",
@@ -154,6 +286,17 @@
     "Linkdin" : "https://www.linkedin.com/in/molefi-ngakane-137b60197/"
   },
   {
+    "Photo": "img/grad-28.JPG",
+    "Name": "Nick Hamilton",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://hamster-17.github.io/Nick-Hamilton-Profile-/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/hamster-17",
+    "Linkdin" : "https://www.linkedin.com/in/nick-hamilton-8344b4193/"
+  },
+  {
     "Photo": "img/grad-14.jpg",
     "Name": "Phindulo Nedzingahe",
     "Year": 2020,
@@ -163,6 +306,50 @@
     "interestedlob": "Mobility,Data services",
     "GithubRepo": "https://github.com/DaJuiceINF",
     "Linkdin" : "https://www.linkedin.com/in/phindulo-nedzingahe-b95446189/"
+  },
+  {
+    "Photo": "img/grad-30.jpg",
+    "Name": "Rebecca Tshangela",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://rebecca-create.github.io/RebeccaTshangela/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/rebecca-create",
+    "Linkdin" : "https://www.linkedin.com/in/rebecca-tshangela-5975a0127/"
+  },
+  {
+    "Photo": "img/user-icon.png",
+    "Name": "Reinhardt Pienaar",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://reinhardt1995.github.io/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/reinhardt1995",
+    "Linkdin" : "https://www.linkedin.com/in/reinhardt-pienaar-9276061a2/"
+  },
+  {
+    "Photo": "img/grad-31.jpg",
+    "Name": "Robyn Dent",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://robynscott241.github.io/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/robynscott241",
+    "Linkdin" : "https://www.linkedin.com/in/robyn-dent-60ab0214a/"
+  },
+  {
+    "Photo": "img/user-icon.png",
+    "Name": "Sarah van Breda",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://sarahvanbreda.github.io/HelloSarah/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/sarahvanbreda",
+    "Linkdin" : "https://www.linkedin.com/in/sarah-leigh-van-breda-2298171a1/"
   },
   {
     "Photo": "img/grad-15.jpg",
@@ -176,6 +363,28 @@
     "Linkdin" : "https://www.linkedin.com/in/scelo-nkabinde/"
   },
   {
+    "Photo": "img/grad-32.JPG",
+    "Name": "Thori Rampedi",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://thoriso95.github.io/Thori/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/thoriso95",
+    "Linkdin" : "https://www.linkedin.com/in/thoriso-rampedi-8a4508107/"
+  },
+  {
+    "Photo": "img/grad-33.png",
+    "Name": "Tsholofelo Rakomane",
+    "Year": 2020,
+    "Program": "GAP",
+    "GithubLink": "https://tsholo-fellow.github.io/Tsholo-Rakomane/",
+    "skills": "",
+    "interestedlob": "",
+    "GithubRepo": "https://github.com/tsholo-fellow",
+    "Linkdin" : "https://www.linkedin.com/in/tsholofelo-rakomane-1a9522128/"
+  },
+  {
     "Photo": "img/grad-17.jpg",
     "Name": "Zintle Lutseke",
     "Year": 2020,
@@ -187,4 +396,3 @@
     "Linkdin" : "https://www.linkedin.com/in/ntlentle-lutseke-1b3770161/"
   }
 ]
-
